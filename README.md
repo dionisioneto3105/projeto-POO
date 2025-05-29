@@ -43,6 +43,4 @@ O sistema foi criado para uma fábrica de software gerenciar tarefas, colaborado
 
 O sistema apresenta mensagens amigáveis caso haja tentativas inválidas, como editar ou excluir itens inexistentes ou deixar campos obrigatórios vazios.
 
----
 
-Se precisar, posso ajudar a adaptar ou criar um README com mais detalhes! Quer?
