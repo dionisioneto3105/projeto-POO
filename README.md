@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo simples de README para o seu projeto:
-
----
-
 # Sistema de Controle de Tarefas
 
 ## Descrição do Projeto
