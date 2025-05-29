@@ -209,30 +209,3 @@ export function AuthProvider({ children }: AuthProviderProps) {
     setUser(null);
     clearAuthUser();
   };
-Recursos Principais do Sistema:
-✓ Autenticação baseada em papéis:
-
-Gerentes: Acesso completo (criar/editar tarefas, gerenciar colaboradores e categorias)
-Colaboradores: Visualizar tarefas atribuídas e atualizar status
-✓ Gerenciamento de Tarefas:
-
-Criação, edição e exclusão de tarefas
-Sistema de status (Pendente, Em Andamento, Concluída)
-Atribuição de tarefas a colaboradores
-Categorização com cores personalizadas
-✓ Filtros Avançados:
-
-Por colaborador, categoria e status
-Dashboard com estatísticas em tempo real
-✓ Interface Responsiva:
-
-Design profissional com Tailwind CSS
-Componentes reutilizáveis com shadcn/ui
-Suporte a tema escuro
-✓ Tecnologias Utilizadas:
-
-Frontend: React, TypeScript, Wouter (roteamento), TanStack Query, React Hook Form
-Backend: Express.js, TypeScript
-Validação: Zod schemas
-Storage: Sistema em memória para prototipagem rápida
-UI: shadcn/ui components, Tailwind CSS
